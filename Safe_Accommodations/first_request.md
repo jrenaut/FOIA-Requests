@@ -2,17 +2,15 @@ To Whom It May Concern:
 
 Pursuant to the District of Columbia Freedom of Information Act of 1974, D.C. Code Ann. § 2-531 et seq. ("D.C. Act"), I hereby request the following records:
 
-*[dataset description]* including the following fields: 
+All internal DDOT communication and guidance documents instructing DDOT employees on how to comply with rule 24-3315 SAFE ACCOMMODATION FOR PEDESTRIANS AND BICYCLISTS on DDOT construction projects.
 
-*[requested fields]*
-
-I would prefer the request filled electronically, by e-mail attachment if available or USB/CD-ROM if not. Additionally I would prefer the documents be in a machine-readable format (i.e., Excel or .csv files, not PDF).
+I would prefer the request filled electronically, by e-mail attachment if available or USB/CD-ROM if not. Additionally I would prefer the documents be in a machine-readable format (i.e., searchable PDF or .docx rather than scanned images).
 
 Thank you in advance for your anticipated cooperation in this matter. I look forward to receiving your response to this request within 15 business days, as the statute requires.
 
 Sincerely,
 
-*[Name]*
+Jon Renaut
 
 
 
